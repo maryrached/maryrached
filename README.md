@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryrached
 - 👀 I’m interested in matching problems to the right solvers
-- 🌱 I’m Architect with Masters in Urban Development 
+- 🌱 I’m Architect and Urbanist with Masters in Urban Development 
 - 💞️ I’m currently learning Strategic Planning and Analysis Systems Development. 
 
 <!---
